@@ -1,2 +1,2 @@
 # mapreduce2025
-MapReduce samples and exercises
+MapReduce samples and exercises.
